@@ -1,6 +1,6 @@
 
 ![Banner](https://sistemadovarejo.com.br/assets/images/cupom_checkout.gif)
-
+https://github.com/amandazzoc/Processamento-notas-fiscais-llm/blob/main/README.md
 <h1>Sistema de Processamento de Notas Fiscais Eletrônicas</h1>
 <p>
 
@@ -52,7 +52,10 @@
 ```
 Processamento-notas-fiscais-llm/
 ├── assets/
-│   └── banner.jpg
+│   └── diagrama.png
+│   └── image-2.png
+│   └── image-3.png
+│   └── image.png
 ├── cdk/
 │   ├── cdk/
 │   │   ├── __init__.py
